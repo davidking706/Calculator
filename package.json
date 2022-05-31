@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "(Optional )",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidking706/Calculator.git"
+  },
+  "keywords": [],
+  "author": "David Evra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidking706/Calculator/issues"
+  },
+  "homepage": "https://github.com/davidking706/Calculator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
